@@ -1,17 +1,17 @@
-# Hi 👋, I'm [Tên của bạn - Duy]
+# Hi 👋, I'm 𝒋𝒖𝒚
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=[username-của-bạn]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=𝒋𝒖𝒚&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-### 💻 IT Student at Hanoi University of Science and Technology (HUST)
+### 💻 IT Student at Thang Long University (TLU)
 I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻🇳. I love building web applications and exploring the beauty of Linear Algebra.
 
 ---
 
 ### 🚀 Reach out to me:
-- 📧 Email: **[email-của-bạn]@gmail.com**
-- 🌐 Portfolio: **[link-website-nếu-có]**
-- 💼 LinkedIn: **[link-linkedin-của-bạn]**
+- 📧 Email: **duy83310@gmail.com**
+- 🌐 Portfolio: ****
+- 💼 LinkedIn: ****
 
 ---
 
@@ -36,18 +36,18 @@ I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻�
 
 ### 📊 My Github Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[username-của-bạn]&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username-của-bạn]&layout=compact&theme=tokyonight&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=𝒋𝒖𝒚&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=𝒋𝒖𝒚&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-của-bạn]&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=𝒋𝒖𝒚&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact:
-- 🇯🇵 I'm currently learning Japanese (Hiragana & Katakana).
+- 🇯🇵 I'm currently learning Japanese.
 - 📉 I manage a few YouTube Shorts channels with 100k+ subs.
 - 📐 My favorite matrix operation is finding Eigenvalues!
 
