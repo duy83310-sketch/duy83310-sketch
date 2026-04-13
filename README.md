@@ -1,6 +1,7 @@
 # Hi 👋, I'm 𝒋𝒖𝒚
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=𝒋𝒖𝒚&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=duy83310-sketch
+&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ### 💻 IT Student at Thang Long University (TLU)
@@ -36,8 +37,10 @@ I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻�
 
 ### 📊 My Github Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=𝒋𝒖𝒚&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=𝒋𝒖𝒚&layout=compact&theme=tokyonight&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duy83310-sketch
+&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310-sketch
+&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
