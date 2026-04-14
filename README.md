@@ -33,6 +33,7 @@ I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻�
 
 
 ### ⚡ Fun Fact:
+- 🥈 **Silver Medalist** in the **National Mathematical Olympiad for Students**.
 - 🇯🇵 I'm currently learning Japanese.
 - 📉 I manage a few YouTube Shorts channels with 100k+ subs.
 - 📐 My favorite matrix operation is finding Eigenvalues!
