@@ -37,4 +37,21 @@ I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻�
 - 📉 I manage a few YouTube Shorts channels with 100k+ subs.
 - 📐 My favorite matrix operation is finding Eigenvalues!
 
-> "The entire history of software engineering is that of the rise in levels of abstraction." - *Grady Booch*
+---
+
+
+
+<p align="center">
+  <br/>
+  <h1 align="center">
+    <i>
+      <font color="gray">
+        "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while."
+      </font>
+    </i>
+  </h1>
+  <p align="center"> — <b>Steve Jobs</b> — </p>
+  <br/>
+</p>
+
+---
