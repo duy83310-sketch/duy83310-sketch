@@ -42,6 +42,11 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+### 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### ⚡ Fun Fact:
 - 🇯🇵 I'm currently learning Japanese.
@@ -51,19 +56,14 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
 
 ---
 
+### 💡 Dev Quote
 
-
-<p align="center">
-  <br/>
-  <h1 align="center">
-    <i>
-      <font color="gray">
-        "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while."
-      </font>
-    </i>
-  </h1>
-  <p align="center"> — <b>Steve Jobs</b> — </p>
-  <br/>
+<p align="left">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
 </p>
+
+
 
 ---
