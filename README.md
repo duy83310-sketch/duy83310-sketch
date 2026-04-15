@@ -33,8 +33,8 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
 
 
 ### ⚡ Fun Fact:
-- 🥈 **Silver Medalist** in the **National Mathematical Olympiad for Students**.
 - 🇯🇵 I'm currently learning Japanese.
+- 🥈 **Silver Medalist** in the **National Mathematical Olympiad for Students**.
 - 📉 I manage a few YouTube Shorts channels with 100k+ subs.
 - 📐 My favorite matrix operation is finding Eigenvalues!
 
