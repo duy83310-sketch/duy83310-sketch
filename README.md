@@ -1,7 +1,7 @@
 # Hi 👋, I'm 𝒋𝒖𝒚
 
 ### 💻 IT Student at Thang Long University (TLU)
-I am a passionate Fullstack Developer and a math enthusiast from Vietnam 🇻🇳. I love building web applications and exploring the beauty of Linear Algebra.
+I am a **Fullstack Developer** driven by the challenge of building scalable and efficient web applications. I focus on writing clean, maintainable code and leveraging my background in **logical reasoning** to solve complex engineering problems. Currently, I am seeking opportunities to contribute to impactful projects and grow within a professional engineering team.
 
 ---
 
