@@ -45,7 +45,7 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
 ### 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ### ⚡ Fun Fact:
@@ -63,7 +63,5 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   </a>
 </p>
-
-
 
 ---
