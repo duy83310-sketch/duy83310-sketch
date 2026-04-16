@@ -7,7 +7,7 @@ I am a **Fullstack Developer** driven by the challenge of building scalable and 
 
 ### 🚀 Reach out to me:
 - 📧 Email: **duy83310@gmail.com**
-- 🌐 Portfolio: **juyyy.dev**
+- 🌐 Portfolio: **duy-portfolio.vercel.app**
 - 💼 LinkedIn: ****
 
 ---
