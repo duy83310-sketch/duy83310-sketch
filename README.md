@@ -2,8 +2,8 @@
 
 <table width="100%">
   <tr>
-    <td bgcolor="#1a1b27" align="left">
-      <img src="https://thanglong.edu.vn/themes/md_tlu_2/img/logo.svg" width="35" align="center" /> &nbsp;<b><font color="#c0caf5" size="4">IT Student at Thang Long University (TLU)</font></b>
+    <td bgcolor="#f1f5f9" align="left">
+      <img src="https://thanglong.edu.vn/themes/md_tlu_2/img/logo.svg" width="35" align="center" /> &nbsp;<b><font color="#0f172a" size="4">IT Student at Thang Long University (TLU)</font></b>
     </td>
   </tr>
 </table>
