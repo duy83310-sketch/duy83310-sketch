@@ -1,12 +1,5 @@
 # Hi 👋, I'm 𝒋𝒖𝒚
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#f1f5f9" align="left">
-      <img src="https://thanglong.edu.vn/themes/md_tlu_2/img/logo.svg" width="35" align="center" /> &nbsp;<b><font color="#0f172a" size="4">IT Student at Thang Long University (TLU)</font></b>
-    </td>
-  </tr>
-</table>
 I am a **Fullstack Developer** driven by the challenge of building scalable and efficient web applications. I focus on writing clean, maintainable code and leveraging my background in **logical reasoning** to solve complex engineering problems. Currently, I am seeking opportunities to contribute to impactful projects and grow within a professional engineering team.
 
 ---
