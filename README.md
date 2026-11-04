@@ -70,14 +70,6 @@ it's reasoning.
 
 <div align="center">✦•······················•✦•······················•✦</div>
 
-### ✦ Most used languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<div align="center">✦•······················•✦•······················•✦</div>
-
 ### ✦ Fun facts
 
 - 🥈 silver medalist in the national mathematical olympiad for students
