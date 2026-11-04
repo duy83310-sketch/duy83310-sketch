@@ -15,7 +15,7 @@ Logic - math olympiads - eigenvalues - clean code
 
 </td>
 <td width="28%" align="center" valign="middle">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM0OThrM2twNzU0M2wxOWNucHI2ODVjdGFtaTYzcWdsNXJic2h3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" width="200" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM0OThrM2twNzU0M2wxOWNucHI2ODVjdGFtaTYzcWdsNXJic2h3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" width="250" />
 </td>
 </tr>
 </table>
