@@ -1,66 +1,86 @@
-# Hi 👋, I'm 𝒋𝒖𝒚
+<div align="center">
 
-I am a **Fullstack Developer** driven by the challenge of building scalable and efficient web applications. I focus on writing clean, maintainable code and leveraging my background in **logical reasoning** to solve complex engineering problems. Currently, I am seeking opportunities to contribute to impactful projects and grow within a professional engineering team.
+<table>
+<tr>
+<td width="72%" align="left" valign="middle">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Hello,+hello;I'm+juy+%E2%9C%A9" />
 
-### 🚀 Reach out to me:
-- 📧 Email: **duy83310@gmail.com**
-- 🌐 Portfolio: **duy-portfolio.vercel.app**
-- 💼 LinkedIn: ****
+<pre>
+Fullstack Developer - Web Applications - Problem Solver
+Frontend - Backend - Databases - Cloud
+React - Node.js - Express - Java - MySQL - MongoDB
+Logic - math olympiads - eigenvalues - clean code
+</pre>
 
----
+</td>
+<td width="28%" align="center" valign="middle">
+<img src="https://github.com/duy83310-sketch.png?size=170" width="170" />
+</td>
+</tr>
+</table>
 
-## 🛠 My Skills:
+</div>
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
+<div align="center">✦•······················•✦•······················•✦</div>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-</p>
+### ✦ About me
 
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+I'm juy, a fullstack developer.
 
-### 🔧 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+i build scalable, efficient web applications with clean, maintainable code.  
+my background in logical reasoning shapes how i work: break the problem down, find the structure, then build it.
 
-### 📊 Most Used Languages
+code, for me, is not just syntax.  
+it's reasoning.
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
+### ✦ Reach out
+
+- 📧 **email** · [duy83310@gmail.com](mailto:duy83310@gmail.com)
+- 🌐 **portfolio** · [duy-portfolio.vercel.app](https://duy-portfolio.vercel.app)
+<!-- - 💼 **linkedin** · add your link here -->
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
+### ✦ Stack + Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-FF8A65?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7C9CFF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=0B1020)
+![React](https://img.shields.io/badge/React-65C7FF?style=for-the-badge&logo=react&logoColor=0B1020)
+![Java](https://img.shields.io/badge/Java-FF98B7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9B8CFF?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-C084FC?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5F8DFF?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7DD3A0?style=for-the-badge&logo=mongodb&logoColor=0B1020)
+![Vercel](https://img.shields.io/badge/Vercel-2B2F3A?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F57AC8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
+### ✦ Current focus
+
+- building scalable, efficient web applications from frontend to backend
+- solving complex engineering problems with a logic-first mindset
+- looking for impactful projects and a professional engineering team to grow with
+- learning japanese on the side 🇯🇵
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
+### ✦ Most used languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duy83310-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### ⚡ Fun Fact:
-- 🇯🇵 I'm currently learning Japanese.
-- 🥈 **Silver Medalist** in the **National Mathematical Olympiad for Students**.
-- 📉 I manage a few YouTube Shorts channels with 100k+ subs.
-- 📐 My favorite matrix operation is finding Eigenvalues!
+<div align="center">✦•······················•✦•······················•✦</div>
 
----
+### ✦ Fun facts
 
-### 💡 Dev Quote
-
-<p align="left">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  </a>
-</p>
-
----
+- 🥈 silver medalist in the national mathematical olympiad for students
+- 📉 i run a few youtube shorts channels with 100k+ subs
+- 📐 favorite matrix operation: finding eigenvalues
+- 🇯🇵 currently learning japanese
