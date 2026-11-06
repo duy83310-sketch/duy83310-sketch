@@ -1,26 +1,5 @@
-<div align="center">
-
-<table>
-<tr>
-<td width="72%" align="left" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Hello,+hello;I'm+juy+%E2%9C%A9" />
-
-<pre>
-Fullstack Developer - Web Applications - Problem Solver
-Frontend - Backend - Databases - Cloud
-React - Node.js - Express - Java - MySQL - MongoDB
-Logic - math olympiads - eigenvalues - clean code
-</pre>
-
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM0OThrM2twNzU0M2wxOWNucHI2ODVjdGFtaTYzcWdsNXJic2h3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" width="250" />
-</td>
-</tr>
-</table>
-
-</div>
+| ![](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Hello,+hello;I'm+juy+%E2%9C%A9)<br>Fullstack Developer - Web Applications - Problem Solver<br>Frontend - Backend - Databases - Cloud<br>React - Node.js - Express - Java - MySQL - MongoDB<br>Logic - math olympiads - eigenvalues - clean code | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM0OThrM2twNzU0M2wxOWNucHI2ODVjdGFtaTYzcWdsNXJic2h3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.gif" width="250" /> |
+|:--|:-:|
 
 <div align="center">✦•······················•✦•······················•✦</div>
 
